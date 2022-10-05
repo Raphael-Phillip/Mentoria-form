@@ -1,7 +1,7 @@
 ### My second challenge taught by Rocketseat platform<h3>
 <br/>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/114286800/193920156-1029f962-6d6b-4502-b136-5693e6f2eafc.png" width="900px" />
+<img src="https://user-images.githubusercontent.com/114286800/193960653-95919043-267e-40a3-8f08-1915123097e4.png" width="900px" />
 </div>
 <br/>
 <br/>
